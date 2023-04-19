@@ -133,3 +133,9 @@ main p {
         background-image: url(../images/pattern-background-desktop.svg);        
     }    
 }
+
+@media (orientation: landscape)  {
+    main {
+        margin-top: 5rem;
+    }
+}
