@@ -80,6 +80,7 @@ main p {
 }
 
 .btn-change {
+    all: unset;
     color: hsl(245, 75%, 52%);
     font-weight: 700;
     text-decoration: underline;
@@ -108,8 +109,10 @@ main p {
 }
 
 .btn-cancel {
+    all: unset;
     color: hsla(0, 0%, 0%, 0.5);
     cursor: pointer;
+    margin-top: 1rem;
     margin-bottom: 2rem;
 }
 
