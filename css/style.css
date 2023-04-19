@@ -134,7 +134,7 @@ main p {
     }    
 }
 
-@media (orientation: landscape) and (max-height: 900px)  {
+@media (orientation: landscape) and (max-height: 630px)  {
     body {
         height: auto;
         background-size: cover;
