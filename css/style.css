@@ -135,7 +135,11 @@ main p {
 }
 
 @media (orientation: landscape)  {
+    body {
+        height: auto;
+    }
     main {
         margin-top: 5rem;
+        margin-bottom: 2rem;
     }
 }
